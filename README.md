@@ -11,7 +11,7 @@
         </body>
         <body>
               <ul>
-                          <li><a href="#Home</a></li>
+                          <li><a href="#Home"</a></li>
                           <li><a href="#Background"</a></li>
                           <li><a href="#Rationale"</a></li>
                           <li><a href="#Method"</a></li>
