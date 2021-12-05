@@ -3,6 +3,7 @@ h1 {
   font-size: 2em;
   color: #002;
   margin-bottom: .3em;
+  font-family: Courier New, Monospace;
 }
 
 h3 {
@@ -15,5 +16,5 @@ p {
 }
 body {
   background-color: aliceblue;
-  font-family: Verdana, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
