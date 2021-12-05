@@ -3,6 +3,7 @@ h1 {
   font-size: 2em;
   color: #002;
   margin-bottom: .3em;
+  font-family: Monaco, monospace;
 }
 
 h3 {
