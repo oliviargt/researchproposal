@@ -3,7 +3,6 @@ h1 {
   font-size: 2em;
   color: #002;
   margin-bottom: .3em;
-  font-family: Monaco, monospace;
 }
 
 h3 {
@@ -15,6 +14,6 @@ p {
   margin: .9em
 }
 body {
-  background-color: lightgray;
+  background-color: darkseagreen;
   font-family: Verdana, sans-serif;
 }
