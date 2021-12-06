@@ -1,11 +1,16 @@
 h1 {
-  text-align: left;
+  text-align: center;
   font-size: 2em;
   color: #002;
   margin-bottom: .3em;
   font-family: Monaco, Monospace;
 }
-
+h2 {
+  text-align: center;
+}
+img { 
+  text-align: center;
+}
 h3 {
   margin: .1em
   width: 290px;
